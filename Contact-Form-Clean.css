@@ -9,6 +9,9 @@
   font-weight: bold;
 
 }
+.form-label {
+  font-weight: bold;
+}
 
 @media (max-width:767px) {
   .contact-clean {
